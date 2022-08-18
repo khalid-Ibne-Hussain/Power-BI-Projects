@@ -1,8 +1,9 @@
-# Project 1: ##
+# Project 1: Super Shop
 
 ![project1](https://user-images.githubusercontent.com/76039658/184950025-42c4518b-8602-4cf5-b59b-7fae0c3e4489.PNG)
 #
-# Project 2: ##HR Dashboard
+#
+# Project 2: HR Dashboard
 ### Home Page
 ![Home Dashboard](https://user-images.githubusercontent.com/76039658/185227791-13bda326-a7f0-4c8d-9c5d-af76b4fe57ec.PNG)
 
